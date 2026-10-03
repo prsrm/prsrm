@@ -1,0 +1,8 @@
+export const swamp = "#1f311d"
+export const shado = "#778375"
+export const snowy = "#c1cebf"
+export const carro = "#f8bf84"
+export const lemon = "#dcca7c"
+export const green = "#b6d48d"
+export const azure = "#6edbdd"
+export const grape = "#dabdff"
